@@ -1,0 +1,18 @@
+This project uses the following open-source libraries:
+
+1. Bootstrap 4.6.1
+   Licensed under the MIT License: https://opensource.org/licenses/MIT
+   Copyright (c) The Bootstrap Authors.
+
+2. Material Design for Bootstrap (MDBootstrap)
+   Free version licensed under the MIT License.
+   See: https://mdbootstrap.com/
+
+3. Font Awesome Free 6.4.0
+   Licensed under the MIT License: https://opensource.org/licenses/MIT
+   Copyright (c) Fonticons, Inc.
+
+4. Academicons 1.9.1
+   Licensed under the SIL Open Font License.
+   See: https://scripts.sil.org/OFL
+

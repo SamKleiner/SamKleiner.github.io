@@ -1,0 +1,65 @@
+General reset
+body, h1, p, ul, li, a {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+    line-height: 1.6;
+}
+
+.navbar {
+    background-color: #f8f9fa;
+    margin-bottom: 30px;
+}
+
+.nav-link {
+    color: #000;
+}
+
+.nav-link.active {
+    font-weight: bold;
+}
+
+.post-title {
+    font-size: 2rem;
+}
+
+header {
+    background: #fff;
+    color: #333;
+    padding: 1em 0;
+}
+
+header nav ul {
+    list-style: none;
+    text-align: center;
+}
+
+header nav ul li {
+    display: inline;
+    margin: 0 10px;
+}
+
+header nav ul li a {
+    color: #fff;
+    text-decoration: none;
+}
+
+header nav ul li a.active {
+    text-decoration: underline;
+}
+
+main {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 0 20px;
+}
+
+footer {
+    text-align: center;
+    background-color: #f8f9fb;
+    padding: 1rem 0;
+}
